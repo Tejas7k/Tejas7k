@@ -1,4 +1,4 @@
-![Logo](Tejas khutwad banner .png)
+![Logo](Tejas_khutwad.png)
 
 ## Hi there 👋
 # 🚀 Welcome to My GitHub!  
