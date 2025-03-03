@@ -1,4 +1,4 @@
-![Logo](https://github.com/Tejas7k/Tejas7k/blob/main/Git%20Banner_20241231_222927_0000.png)
+![Logo](Tejas khutwad banner .png)
 
 ## Hi there 👋
 # 🚀 Welcome to My GitHub!  
